@@ -1,0 +1,17 @@
+main{
+    display: block;
+}
+
+div{
+    display: block;
+}
+
+.card{
+    width: 600px;
+    min-height: 400px;
+    margin: -170px auto;
+    display: block;
+    position: relative;
+    background-color: white;
+    box-shadow: 10px 10px 20px rgb(73, 73, 77, 50%);
+}
